@@ -1,3 +1,5 @@
+<a href="file:///C:/Users/aycan/Desktop/NURSENA/e%C4%9Fitimler/HTML%20-%20CSS/kodluyoruz-front-end/index.html"><p><em>HTML sayfasının linki</em></p></a>
+<hr>
 <h1>Ayça Nursena Korkmaz</h1>
 <h2>Hakkımda</h2>
 <!-- Genel bilgiler -->
