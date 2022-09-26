@@ -1,0 +1,48 @@
+<body>
+   <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">Bizimle İletişime Geçin</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+  <section>
+        <article>
+            <img src="https://picsum.photos/id/217/800/400" alt="Yazı 1">
+            <h3>Hakkımızda</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, aspernatur.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+            <p>Consequuntur maiores illum beatae esse aspernatur optio.</p>
+            <ol>
+                <li>Lorem ipsum dolor sit amet.</li>
+                <li>Soluta corporis perferendis laboriosam quos!</li>
+                <li>Nihil molestias veritatis repellat. Voluptate.</li>
+            </ol>
+        </article>
+    </section>
+  <footer>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">Bizimle İletişime Geçin</a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+</html>
